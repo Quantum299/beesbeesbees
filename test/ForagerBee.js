@@ -40,7 +40,7 @@ describe('ForagerBee class functionality', function() {
     expect(foragerBee.treasureChest).to.be.a('array');
   });
 
-  it('should have a `forage` method that allows the bee to add a `treasure` to the `treasureChest`', function() {
+  /*it('should have a `forage` method that allows the bee to add a `treasure` to the `treasureChest`', function() {
     foragerBee.forage('pollen');
     foragerBee.forage('flowers');
     foragerBee.forage('gold');
@@ -48,3 +48,4 @@ describe('ForagerBee class functionality', function() {
   });
 
 });
+*/
